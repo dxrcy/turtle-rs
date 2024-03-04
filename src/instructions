@@ -1,0 +1,9 @@
+goto center
+
+face right
+move 30
+
+pen down
+
+face down
+move 100
