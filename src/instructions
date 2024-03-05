@@ -1,9 +1,102 @@
+pen up
+clear
 goto center
 
-face right
-move 30
+face west
+move 50
+face north
+move 50
 
 pen down
+face northeast
+move 20
+face northwest
+move 20
+face southwest
+move 20
+face southeast
+move 20
+pen up
 
-face down
-move 100
+face north
+move 70
+face east
+move 20
+
+pen down
+face west
+move 40
+pen up
+
+goto center
+
+face east
+move 50
+face north
+move 50
+
+pen down
+face northeast
+move 20
+face northwest
+move 20
+face southwest
+move 20
+face southeast
+move 20
+pen up
+
+face north
+move 70
+face east
+move 20
+
+pen down
+face west
+move 40
+pen up
+
+goto center
+
+face west
+move 140
+
+pen down
+face south
+move 40
+face east
+move 15
+face south
+move 25
+face east
+move 15
+face south
+move 15
+face east
+move 25
+face south
+move 15
+
+face east
+move 170
+face north
+move 15
+face east
+move 25
+face north
+move 15
+face east
+move 15
+face north
+move 25
+face east
+move 15
+face north
+move 40
+
+face west
+move 280
+
+pen up
+goto center
+
