@@ -99,4 +99,6 @@ move 280
 
 pen up
 goto center
+face north
+move 30
 
